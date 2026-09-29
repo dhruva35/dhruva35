@@ -158,14 +158,6 @@ fun_fact: "I debug AI models by staring at
 
 <br/>
 
----
-
-### 🎵 Vibes
-
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ylu6ickut6luveszzpsfzrcpky&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=6c63ff" alt="Spotify" />
-
----
-
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:6c63ff&height=120&section=footer" width="100%"/>

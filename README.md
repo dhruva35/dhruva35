@@ -90,42 +90,17 @@ fun_fact: "I debug AI models by staring at
 
 ## 🏆 Featured Projects
 
-<div align="center">
+| 🏠 [Smart Home AI Agent](https://github.com/dhruva35/smart-home-agent) | 🧠 [Corrective RAG Income Tax](https://github.com/dhruva35/corrective-rag-income-tax) |
+|:---|:---|
+| AI-powered smart home management system utilizing natural language processing and IoT. | Advanced RAG pipeline for handling complex income tax queries with self-correction. |
+| 🍔 [BK Menu Detection Toolkit](https://github.com/dhruva35/bk-menu-detection-toolkit) | ⚙️ [Remote Device Config System](https://github.com/dhruva35/remote-device-configuration-system) |
+| Computer vision toolkit for robust and real-time menu item detection. | Dashboard for managing, configuring, and monitoring remote IoT devices via SSH. |
+| 🎨 [Fluid Art Portfolio](https://github.com/dhruva35/fluid-art-portfolio) | 🚀 [ARPS](https://github.com/dhruva35/ARPS) |
+| A stunning and responsive portfolio website built with modern web technologies. | An advanced project focused on scalable system architecture and performance. |
 
-<a href="https://github.com/dhruva35/smart-home-agent">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruva35&repo=smart-home-agent&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=6c63ff&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/dhruva35/corrective-rag-income-tax">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruva35&repo=corrective-rag-income-tax&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=6c63ff&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/dhruva35/bk-menu-detection-toolkit">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruva35&repo=bk-menu-detection-toolkit&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=6c63ff&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/dhruva35/remote-device-configuration-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruva35&repo=remote-device-configuration-system&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=6c63ff&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/dhruva35/fluid-art-portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruva35&repo=fluid-art-portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=6c63ff&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/dhruva35/ARPS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruva35&repo=ARPS&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=6c63ff&text_color=c9d1d9" />
-</a>
-
-</div>
-
-
+<br/>
 
 <div align="center">
-
-### 💡 Random Dev Quote
-<br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-
-<br/>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:6c63ff&height=120&section=footer" width="100%"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:6c63ff&height=120&section=footer" width="100%"/>
 </div>
+

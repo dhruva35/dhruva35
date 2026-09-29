@@ -113,41 +113,7 @@ fun_fact: "I debug AI models by staring at
 
 </div>
 
----
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dhruva35&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=6c63ff&text_color=c9d1d9&ring_color=6c63ff" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruva35&theme=tokyonight&hide_border=true&background=0d1117&ring=6c63ff&fire=6c63ff&currStreakLabel=6c63ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruva35&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
-</div>
-
-<br/>
-
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruva35&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6c63ff&line=6c63ff&point=ffffff&area=true&area_color=6c63ff" width="95%" alt="Activity Graph"/>
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhruva35/dhruva35/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhruva35/dhruva35/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/dhruva35/dhruva35/output/github-snake-dark.svg" />
-  </picture>
-</div>
-
----
 
 <div align="center">
 

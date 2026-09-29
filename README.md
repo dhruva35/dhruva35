@@ -92,7 +92,7 @@ fun_fact: "I debug AI models by staring at
 
 | 🏠 [Smart Home AI Agent](https://github.com/dhruva35/smart-home-agent) | 🧠 [Corrective RAG Income Tax](https://github.com/dhruva35/corrective-rag-income-tax) |
 |:---|:---|
-| AI-powered smart home management system utilizing natural language processing and IoT. | Advanced RAG pipeline for handling complex income tax queries with self-correction. |
+| AI-powered smart home management system utilizing natural language processing . | Advanced RAG pipeline for handling complex income tax queries with self-correction. |
 | 🍔 [BK Menu Detection Toolkit](https://github.com/dhruva35/bk-menu-detection-toolkit) | ⚙️ [Remote Device Config System](https://github.com/dhruva35/remote-device-configuration-system) |
 | Computer vision toolkit for robust and real-time menu item detection. | Dashboard for managing, configuring, and monitoring remote IoT devices via SSH. |
 | 🎨 [Fluid Art Portfolio](https://github.com/dhruva35/fluid-art-portfolio) | 🚀 [ARPS](https://github.com/dhruva35/ARPS) |

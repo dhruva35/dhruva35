@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:6c63ff&height=220&section=header&text=Gangari%20Dhruvaveer&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%7C%20Building%20Intelligent%20Systems&descSize=16&descAlignY=55&descAlign=50" width="100%"/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%A7%A0+Crafting+AI+that+sees+and+understands;%F0%9F%94%AD+From+pixels+to+predictions;%F0%9F%9A%80+Turning+research+into+real-world+impact" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=120&lines=%F0%9F%A7%A0+Crafting+AI+that+sees+and+understands;%F0%9F%94%AD+From+pixels+to+predictions;%F0%9F%9A%80+Turning+research+into+real-world+impact" alt="Typing SVG" /></a>
 
 <br/>
 
